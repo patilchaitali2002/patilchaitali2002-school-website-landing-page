@@ -1,0 +1,119 @@
+body{
+    background-color: lightgray;
+}
+h2{
+    margin: 0;
+}
+/* navbar */
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+.schoolname{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.menu{
+    margin-left: 450px;
+    margin-top: 25px;
+    position: absolute;
+}
+.enrollbtn{
+    margin-left: 1100px;
+    margin-top: 25px;
+    border-radius: 8px;
+}
+
+/* first column */
+
+.paragraph{
+    margin-left: 400px;
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    font-family: 'Poppins', sans-serif;
+}
+.A{
+    padding: 5px;
+    position: absolute;
+}
+.B{
+    padding: 5px;
+    margin-left: 150px;
+    position: absolute;
+}
+.C{
+    padding: 3px;
+    margin-left: 300px ;
+}
+.D{
+    margin-left: 150px;
+    border-radius: 8px;
+    width: 150px;
+    height: 30px;
+    color: whitesmoke;
+    font-size: 15px;
+    background-color: crimson;
+}
+.E{
+    margin-left: 100px;
+}
+.image1{
+    width: 250px;
+    height: 250px;
+    margin-top: 120px;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+.image2{
+    width: 250px;
+    height: 250px;
+    margin-left: 700px;
+    border-radius: 10%;
+}
+.image3{
+    width: 200px;
+    height: 150px;
+    margin-left: 150px;
+}
+
+.div1{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 170px;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(63, 6, 6);
+}
+.block1{
+    padding-left: 120px;
+    color: white;
+}
+
+.div2{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 480px;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(63, 6, 6);
+}
+.block2{
+    padding-left: 120px;
+    color: white;
+}
+
+.div3{
+    position: absolute;
+    margin-top: 100px;
+    width: 300px;
+    height: 150px;
+    margin-left: 790px;
+    background-color: rgb(63, 6, 6);
+}
+.block3{
+    padding-left: 120px;
+    color: white;
+}
